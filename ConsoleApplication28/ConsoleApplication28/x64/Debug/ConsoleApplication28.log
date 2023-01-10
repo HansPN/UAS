@@ -1,0 +1,4 @@
+﻿  ConsoleApplication28.cpp
+D:\pribadi\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(12,11): warning C4101: 'n': unreferenced local variable
+D:\pribadi\ConsoleApplication28\ConsoleApplication28\ConsoleApplication28.cpp(12,8): warning C4101: 'r': unreferenced local variable
+  ConsoleApplication28.vcxproj -> D:\pribadi\ConsoleApplication28\x64\Debug\ConsoleApplication28.exe
