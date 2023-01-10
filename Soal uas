@@ -1,0 +1,23 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+	cout << "NAMA : Hans Pramulia Nugroho" << endl;
+	cout << "NRP : 152021141" << endl;
+	cout << endl;
+
+	float r, n, x, y;
+	cout << "Masukkan angka : ";
+	cin >> x;
+	cout << "Masukkan angka : ";
+	cin >> y;
+	cout << (x * y) - (x * y) << endl;
+	cout << (x * x) - (x)<< endl;
+	cout << (y * y) - (y)<< endl;
+	cout << endl;
+
+	return 0;
+}
